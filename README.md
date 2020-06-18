@@ -5,6 +5,7 @@ This repo is to record the result of every interview I failed
 字节跳动游戏开发测试面试
 
 初步结论：基础还是要多多复习，不仅仅是C++的STL，指针的用法，编译原理也很重要
+
 CS32的link：https://ucsb-cs32.github.io/w19/lectures/
 CS16的link：https://ucsb-cs16-m18.github.io/lectures/
 自己的项目还是要更加了解，很多细枝末节就是体现技术的时候，比如monobehavior，其实每个脚本都用到了，但是自己敲代码的时候并没有思考作用是什么
